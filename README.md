@@ -1,4 +1,4 @@
-## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FVerSign010%2Fgost-heroku)
+## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/f35stch6s/gost-h/)
 
 > 1. 服务端部署后，view查看，显示`404 page not found`，表示部署成功。
 
@@ -7,7 +7,7 @@
 >    gost.exe -L=:1080 -F=ss+mwss://method:password@appname.herokuapp.com:443
 > ```
 
-> 3. 客户端[下载](https://github.com/ginuerzh/gost/releases/tag/v2.11.0)
+> 3. 客户端[下载](https://github.com/f35stch6s/gost/releases/tag/v2.11.0)
  
 > 4.  技术文档[站点](https://docs.ginuerzh.xyz/gost/)
 
@@ -28,8 +28,8 @@ addEventListener(
 
 
 ### 参考 
-*https://github.com/ginuerzh/gost*
+*https://github.com/f35stch6s/gost*
 
-*https://github.com/gfwlist/gfwlist*
+*https://github.com/f35stch6s/gfwlist*
 
-*https://github.com/xausky/ShadowsocksGostPlugin*
+*https://github.com/f35stch6s/ShadowsocksGostPlugin*
